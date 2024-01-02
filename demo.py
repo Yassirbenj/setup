@@ -1,1 +1,2 @@
-print "My name is yassir"
+print ("My name is yassir")
+print ("I'm starting bootcamp")
